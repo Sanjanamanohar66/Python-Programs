@@ -1,4 +1,4 @@
-#Author: OMKAR PATHAK
+
 #This program prints various patterns
 
 def pattern1(level):
@@ -110,3 +110,4 @@ if __name__ == '__main__':
         for i in string:
             x = x + 1
             print(string[0:x])
+print("Thank you")            
